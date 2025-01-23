@@ -12,8 +12,8 @@ pt_ksteps.gif
 
 These animations contain networks generated using the 1-step and k-step approach introduced in Campo et al. 2014 [DOI: https://doi.org/10.1186/1471-2164-15-S5-S4]
 
-The k parameter is the number of pairwise differences between the haplotypes(nodes) within the network. The colour of the nodes indicate the sample that haplotype came from.
+The k parameter is the maximum number of pairwise differences between the haplotypes(nodes) within the connected network. The colour of the nodes indicate the sample that the haplotypes came from.
 
 The one component k value is the minimum k value that links the entire network into one component.
 
-The animations show the changing networks as the current k value connecting the haplotypes (nodes) increase to the one component k.
+The animations show the changing networks as the current k value increases to the one component k.
